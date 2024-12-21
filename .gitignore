@@ -1,0 +1,6 @@
+#ignore build directory
+build/
+#ignoreshell file
+file.sh
+#ingnore makefile
+Makefile
