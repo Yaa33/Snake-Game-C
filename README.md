@@ -48,8 +48,8 @@ How to Build
 
 Clone the repository:
 
-    git clone https://github.com/yourusername/snake-game-sdl2.git
-    cd snake-game-sdl2
+    git clone https://github.com/Yaa33/Snake-Game-C.git
+    cd Snake-Game-C
 
 Build the project:
 
